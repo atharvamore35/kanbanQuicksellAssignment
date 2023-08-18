@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kanbanQuicksellAssignment/static/css/main.e984a69f.css",
+    "main.js": "/kanbanQuicksellAssignment/static/js/main.a9bdf62b.js",
+    "static/js/787.f2d8d519.chunk.js": "/kanbanQuicksellAssignment/static/js/787.f2d8d519.chunk.js",
+    "index.html": "/kanbanQuicksellAssignment/index.html",
+    "main.e984a69f.css.map": "/kanbanQuicksellAssignment/static/css/main.e984a69f.css.map",
+    "main.a9bdf62b.js.map": "/kanbanQuicksellAssignment/static/js/main.a9bdf62b.js.map",
+    "787.f2d8d519.chunk.js.map": "/kanbanQuicksellAssignment/static/js/787.f2d8d519.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e984a69f.css",
+    "static/js/main.a9bdf62b.js"
+  ]
+}
